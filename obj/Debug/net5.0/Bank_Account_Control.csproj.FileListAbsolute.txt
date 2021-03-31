@@ -1,0 +1,16 @@
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\bin\Debug\net5.0\Bank_Account_Control.exe
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\bin\Debug\net5.0\Bank_Account_Control.deps.json
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\bin\Debug\net5.0\Bank_Account_Control.runtimeconfig.json
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\bin\Debug\net5.0\Bank_Account_Control.runtimeconfig.dev.json
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\bin\Debug\net5.0\Bank_Account_Control.dll
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\bin\Debug\net5.0\ref\Bank_Account_Control.dll
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\bin\Debug\net5.0\Bank_Account_Control.pdb
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\obj\Debug\net5.0\Bank_Account_Control.csprojAssemblyReference.cache
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\obj\Debug\net5.0\Bank_Account_Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\obj\Debug\net5.0\Bank_Account_Control.AssemblyInfoInputs.cache
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\obj\Debug\net5.0\Bank_Account_Control.AssemblyInfo.cs
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\obj\Debug\net5.0\Bank_Account_Control.csproj.CoreCompileInputs.cache
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\obj\Debug\net5.0\Bank_Account_Control.dll
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\obj\Debug\net5.0\ref\Bank_Account_Control.dll
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\obj\Debug\net5.0\Bank_Account_Control.pdb
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Bank_Account_Control\obj\Debug\net5.0\Bank_Account_Control.genruntimeconfig.cache
